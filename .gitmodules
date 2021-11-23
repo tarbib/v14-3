@@ -12,3 +12,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "acsone/acsone-addons"]
+	path = acsone/acsone-addons
+	url = git@github.com:acsone/acsone-addons.git
+	branch = 14.0
