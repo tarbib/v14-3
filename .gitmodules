@@ -32,3 +32,8 @@
 	path = Comunitea/purchase-workflow
 	url = git@github.com:Comunitea/purchase-workflow.git
 	branch = 14.0-purchase_global_discount
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 14.0
